@@ -1,0 +1,26 @@
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Temp
+*.tmp
+*.bak
+~$*
+
+# Raw/duplicate Blinkit files
+Blinkit Grocery Analytics/blinkit_*.csv
+Blinkit Grocery Analytics/temp_archive/
+HR Analytics Dashboard/WA_Fn-UseC_-HR-Employee-Attrition.csv
+Netflix Content Analytics/netflix_titles.csv

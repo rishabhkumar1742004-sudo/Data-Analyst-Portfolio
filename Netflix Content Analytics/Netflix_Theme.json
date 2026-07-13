@@ -1,0 +1,85 @@
+{
+  "name": "Netflix Premium Dark Red Theme",
+  "dataColors": [
+    "#E50914",
+    "#B20710",
+    "#FFFFFF",
+    "#94A3B8",
+    "#5A5A5A",
+    "#D32F2F",
+    "#FFEB3B",
+    "#00E5FF"
+  ],
+  "background": "#141414",
+  "foreground": "#F5F5F7",
+  "tableAccent": "#E50914",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#1C1C1E" } },
+            "transparency": 40
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#2C2C2E" } },
+            "radius": 12
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#000000" } },
+            "transparency": 70,
+            "preset": "Custom",
+            "direction": "Outer",
+            "angle": 135,
+            "distance": 4,
+            "blur": 8
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI",
+            "fontSize": 12,
+            "fontColor": { "solid": { "color": "#FFFFFF" } },
+            "bold": true
+          }
+        ],
+        "labels": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#E5E7EB" } }
+          }
+        ],
+        "secLabels": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#9CA3AF" } }
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#141414" } },
+            "transparency": 100
+          }
+        ],
+        "outspace": [
+          {
+            "color": { "solid": { "color": "#141414" } },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}

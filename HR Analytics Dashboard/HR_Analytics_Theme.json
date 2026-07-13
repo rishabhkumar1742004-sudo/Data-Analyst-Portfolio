@@ -1,0 +1,85 @@
+{
+  "name": "HR Analytics Premium Dark Glassmorphism",
+  "dataColors": [
+    "#00E5FF",
+    "#FF6D00",
+    "#3B82F6",
+    "#A855F7",
+    "#10B981",
+    "#EF4444",
+    "#FFD600",
+    "#94A3B8"
+  ],
+  "background": "#0B0F19",
+  "foreground": "#E2E8F0",
+  "tableAccent": "#00E5FF",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#1E2530" } },
+            "transparency": 50
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#2E3A4E" } },
+            "radius": 12
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#000000" } },
+            "transparency": 80,
+            "preset": "Custom",
+            "direction": "Outer",
+            "angle": 135,
+            "distance": 4,
+            "blur": 8
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI",
+            "fontSize": 12,
+            "fontColor": { "solid": { "color": "#FFFFFF" } },
+            "bold": true
+          }
+        ],
+        "labels": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#E2E8F0" } }
+          }
+        ],
+        "secLabels": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#94A3B8" } }
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#0B0F19" } },
+            "transparency": 100
+          }
+        ],
+        "outspace": [
+          {
+            "color": { "solid": { "color": "#0B0F19" } },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
