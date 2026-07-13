@@ -34,6 +34,6 @@ Built a premium Netflix-themed content analytics dashboard to explore 8,800+ tit
 - **Rows:** Titles: 8,807 | Genre: 19,323 | Country: 10,845
 
 ## 📞 Contact
-- **LinkedIn:** [Parag Varshney](https://www.linkedin.com/in/paragvarshney/)
+- **LinkedIn:** [Parag Varshney](https://www.linkedin.com/in/parag-varshney-15a62b231/)
 - **GitHub:** [VarshneyParag](https://github.com/VarshneyParag)
 - **Email:** paragvarshney9678@gmail.com

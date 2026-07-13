@@ -71,7 +71,7 @@ Data-Analyst-Portfolio/
 ```
 
 ## 📞 Contact
-- **LinkedIn:** [Parag Varshney](https://www.linkedin.com/in/paragvarshney/)
+- **LinkedIn:** [Parag Varshney](https://www.linkedin.com/in/parag-varshney-15a62b231/)
 - **GitHub:** [VarshneyParag](https://github.com/VarshneyParag)
 - **Email:** paragvarshney9678@gmail.com
 
