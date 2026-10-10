@@ -1,4 +1,4 @@
-# 📊 Data Analyst Portfolio — Rishabh kumar 
+# 📊 Data Analyst project — Rishabh kumar 
 
 A collection of **6 end-to-end data analytics projects** built using **Power BI, Python, SQL, and DAX**. Each project includes interactive dashboards, data cleaning scripts, SQL queries, and comprehensive documentation.
 
