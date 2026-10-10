@@ -1,4 +1,4 @@
-# 📊 Data Analyst Portfolio — Parag Varshney
+# 📊 Data Analyst Portfolio — Rishabh kumar 
 
 A collection of **6 end-to-end data analytics projects** built using **Power BI, Python, SQL, and DAX**. Each project includes interactive dashboards, data cleaning scripts, SQL queries, and comprehensive documentation.
 
@@ -71,9 +71,8 @@ Data-Analyst-Portfolio/
 ```
 
 ## 📞 Contact
-- **LinkedIn:** [Parag Varshney](https://www.linkedin.com/in/parag-varshney-15a62b231/)
-- **GitHub:** [VarshneyParag](https://github.com/VarshneyParag)
-- **Email:** paragvarshney9678@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/rishabh-kumar-11299a2ba?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- **Email:** rishabhkumar1742004@gmail.com
 
 ---
 
